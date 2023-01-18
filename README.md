@@ -1,6 +1,6 @@
 # Crossmodal KD 
 
-Cross-Modal Knowledge Distillation For Vision-To-Sensor Action Recognition (ICASSP-2022) https://ieeexplore.ieee.org/document/9746752
+Cross-Modal Knowledge Distillation For Vision-To-Sensor Action Recognition (ICASSP-2022): https://ieeexplore.ieee.org/document/9746752
 
 # Toolbox for KD research
 
