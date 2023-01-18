@@ -21,6 +21,12 @@ Figure 1: Schematic overview of the proposed VSKD method.
 ![Image](examples.png)
 Figure 2: Selected sensor (top) and their corresponding GAF images (bottom) in UTD-MHAD [12] : (1) basketball shooting; (2) bowling; (3) knock on door and (4) walking.
 
+## Codes        
+For example, in the UTD dataset:            
+Step1: Extract the GAF images using [matlab codes]().      
+Step2: Run 1_UTD_SemanticFusion.py to train the teacher model.     
+Step3: Run 2_run_UTD_All_SemanticAblationFusion_distill.py to conduct knowledge distillation.   
+
 ## Citation
 If you find this repository useful, please consider citing the following paper:
 
