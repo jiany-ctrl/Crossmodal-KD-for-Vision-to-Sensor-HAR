@@ -24,8 +24,8 @@ Figure 2: Selected sensor (top) and their corresponding GAF images (bottom) in U
 ## Codes        
 For example, in the UTD dataset:            
 Step1: Extract the GAF images using [matlab codes]().      
-Step2: Run 1_UTD_SemanticFusion.py to train the teacher model.     
-Step3: Run 2_run_UTD_All_SemanticAblationFusion_distill.py to conduct knowledge distillation.   
+Step2: Run  to get the pre-trained teacher model.     
+Step3: Run  to experiment knowledge distillation.   
 
 ## Citation
 If you find this repository useful, please consider citing the following paper:
