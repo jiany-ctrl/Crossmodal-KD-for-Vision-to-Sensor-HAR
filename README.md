@@ -13,21 +13,14 @@ If you find this repository useful, please consider citing the following paper:
 
 
 ```
-@inproceedings{chen2022simkd,
-  title={Knowledge Distillation with the Reused Teacher Classifier},
-  author={Chen, Defang and Mei, Jian-Ping and Zhang, Hailin and Wang, Can and Feng, Yan and Chen, Chun},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={11933--11942},
-  year={2022}
+@inproceedings{ni2022cross,
+  title={Cross-modal knowledge distillation for Vision-to-Sensor action recognition},
+  author={Ni, Jianyuan and Sarbajna, Raunak and Liu, Yang and Ngu, Anne HH and Yan, Yan},
+  booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={4448--4452},
+  year={2022},
+  organization={IEEE}
 }
 ```
-```
-@inproceedings{chen2021cross,
-  author    = {Defang Chen and Jian{-}Ping Mei and Yuan Zhang and Can Wang and Zhe Wang and Yan Feng and Chun Chen},
-  title     = {Cross-Layer Distillation with Semantic Calibration},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  pages     = {7028--7036},
-  year      = {2021},
-}
-```
+
 
