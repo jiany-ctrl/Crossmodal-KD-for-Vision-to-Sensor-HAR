@@ -17,7 +17,9 @@ Figure 1: Schematic overview of the proposed VSKD method.
 [Berkeley-MHAD](https://tele-immersion.citris-uc.org/berkeley_mhad/)           
 [MMAct](https://mmact19.github.io/2019/)  
 
-
+## GAF examples
+![Image](examples.png)
+Figure 2: Selected sensor (top) and their corresponding GAF images (bottom) in UTD-MHAD [12] : (1) basketball shooting; (2) bowling; (3) knock on door and (4) walking.
 
 ## Citation
 If you find this repository useful, please consider citing the following paper:
