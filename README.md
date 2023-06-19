@@ -23,7 +23,7 @@ Figure 2: Selected sensor (top) and their corresponding GAF images (bottom) in U
 
 ## Codes        
 For example, in the UTD dataset:            
-Step1: Extract the GAF images using [GAF] (https://github.com/jiany-ctrl/Crossmodal-KD-for-Vision-to-Sensor-HAR/tree/main/GAF)      
+Step1: Extract the GAF images using [GAF](https://github.com/jiany-ctrl/Crossmodal-KD-for-Vision-to-Sensor-HAR/tree/main/GAF)      
 Step2: Run  to get the pre-trained teacher model.     
 Step3: Run  to experiment knowledge distillation.   
 
