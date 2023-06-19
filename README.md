@@ -42,6 +42,5 @@ If you find this repository useful, please consider citing the following paper:
 }
 ```
 
-If you have any question about this code, feel free to reach me (liuy856@mail.sysu.edu.cn)    
 ## Acknowledgement
-This work is adopted from [SAKDN](https://github.com/YangLiu9208/SAKDN/tree/master) and we appreciate their sharings.
+This work is heavily adopted from [SAKDN](https://github.com/YangLiu9208/SAKDN/tree/master) and we appreciate their great sharing.
